@@ -19,7 +19,10 @@ You can see a picture from the full setup here:<br>
 - DHT
 - BH1750 for the GY-30
 
-It is the next step on my previous project as ![ESP8266_with_OLED and DHT11](https://github.com/Mategm/ESP8266-OLED-DHT11)
+It is the next step on my previous project as ![ESP8266_with_OLED and DHT11](https://github.com/Mategm/ESP8266-OLED-DHT11)<br>
+
+### It has a modification in the code:
+The long/big numbers keep their positions on the screen.
 
 ## Connection:
 - Display GND to ESP G (Ground beside the 3V)
